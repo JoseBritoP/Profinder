@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1,
+        "name": "Programador",
+        "CategoryId": 1
+    },
+    {
+        "id": 2,
+        "name": "Diseñador web",
+        "CategoryId": 1
+    },
+    {
+        "id": 3,
+        "name": "Especialista en SEO",
+        "CategoryId": 1
+    },
+    {
+        "id": 4,
+        "name": "Ingeniero de software",
+        "CategoryId": 1
+    },
+    {
+        "id": 5,
+        "name": "Analista de datos",
+        "CategoryId": 1
+    },
+    {
+        "id": 6,
+        "name": "Desarrollador de aplicaciones móviles",
+        "CategoryId": 1
+    },
+    {
+        "id": 7,
+        "name": "Administrador de sistemas",
+        "CategoryId": 1
+    },
+    {
+        "id": 8,
+        "name": "Ingeniero de redes",
+        "CategoryId": 1
+    },
+    {
+        "id": 9,
+        "name": "Experto en ciberseguridad",
+        "CategoryId": 1
+    },
+    {
+        "id": 10,
+        "name": "Especialista en inteligencia artificial",
+        "CategoryId": 1
+    },
+    {
+        "id": 11,
+        "name": "Diseñador gráfico",
+        "CategoryId": 2
+    },
+    {
+        "id": 12,
+        "name": "Ilustrador",
+        "CategoryId": 2
+    },
+    {
+        "id": 13,
+        "name": "Fotógrafo",
+        "CategoryId": 2
+    },
+    {
+        "id": 14,
+        "name": "Animador 3D",
+        "CategoryId": 2
+    },
+    {
+        "id": 15,
+        "name": "Diseñador de moda",
+        "CategoryId": 2
+    },
+    {
+        "id": 16,
+        "name": "Artista digital",
+        "CategoryId": 2
+    },
+    {
+        "id": 17,
+        "name": "Escenógrafo",
+        "CategoryId": 2
+    },
+    {
+        "id": 18,
+        "name": "Maquetista",
+        "CategoryId": 2
+    },
+    {
+        "id": 19,
+        "name": "Diseñador de interiores",
+        "CategoryId": 2
+    },
+    {
+        "id": 20,
+        "name": "Diseñador de logotipos",
+        "CategoryId": 2
+    },
+    {
+        "id": 21,
+        "name": "Consultor de marketing",
+        "CategoryId": 3
+    },
+    {
+        "id": 22,
+        "name": "Consultor financiero",
+        "CategoryId": 3
+    },
+    {
+        "id": 23,
+        "name": "Consultor de recursos humanos",
+        "CategoryId": 3
+    },
+    {
+        "id": 24,
+        "name": "Consultor de negocios",
+        "CategoryId": 3
+    },
+    {
+        "id": 25,
+        "name": "Consultor de estrategia",
+        "CategoryId": 3
+    },
+    {
+        "id": 26,
+        "name": "Consultor de ventas",
+        "CategoryId": 3
+    },
+    {
+        "id": 27,
+        "name": "Consultor de gestión",
+        "CategoryId": 3
+    },
+    {
+        "id": 28,
+        "name": "Consultor de calidad",
+        "CategoryId": 3
+    },
+    {
+        "id": 29,
+        "name": "Consultor de logística",
+        "CategoryId": 3
+    },
+    {
+        "id": 30,
+        "name": "Consultor de transformación digital",
+        "CategoryId": 3
+    },
+    {
+        "id": 31,
+        "name": "Asistente virtual",
+        "CategoryId": 4
+    },
+    {
+        "id": 32,
+        "name": "Redactor de contenido",
+        "CategoryId": 4
+    },
+    {
+        "id": 33,
+        "name": "Traductor",
+        "CategoryId": 4
+    },
+    {
+        "id": 34,
+        "name": "Community Manager",
+        "CategoryId": 4
+    },
+    {
+        "id": 35,
+        "name": "Nutricionista",
+        "CategoryId": 4
+    },
+    {
+        "id": 36,
+        "name": "Entrenador personal",
+        "CategoryId": 4
+    },
+    {
+        "id": 37,
+        "name": "Terapeuta",
+        "CategoryId": 4
+    },
+    {
+        "id": 38,
+        "name": "Consejero financiero",
+        "CategoryId": 4
+    },
+    {
+        "id": 39,
+        "name": "Gestor de redes sociales",
+        "CategoryId": 4
+    },
+    {
+        "id": 40,
+        "name": "Especialista en marketing digital",
+        "CategoryId": 4
+    },
+    {
+        "id": 41,
+        "name": "Pastelero",
+        "CategoryId": 5
+    },
+    {
+        "id": 42,
+        "name": "Ceramista",
+        "CategoryId": 5
+    },
+    {
+        "id": 43,
+        "name": "Sastrería",
+        "CategoryId": 5
+    },
+    {
+        "id": 44,
+        "name": "Joyería artesanal",
+        "CategoryId": 5
+    },
+    {
+        "id": 45,
+        "name": "Escultor",
+        "CategoryId": 5
+    },
+    {
+        "id": 46,
+        "name": "Bisutería",
+        "CategoryId": 5
+    },
+    {
+        "id": 47,
+        "name": "Elaboración de velas",
+        "CategoryId": 5
+    },
+    {
+        "id": 48,
+        "name": "Arreglos florales",
+        "CategoryId": 5
+    },
+    {
+        "id": 49,
+        "name": "Decorador de eventos",
+        "CategoryId": 5
+    },
+    {
+        "id": 50,
+        "name": "Origamista",
+        "CategoryId": 5
+    }
+]

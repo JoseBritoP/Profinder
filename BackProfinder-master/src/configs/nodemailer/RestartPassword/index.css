@@ -1,0 +1,6 @@
+#image-styles {
+    width: 160px;
+    height: 100px;
+    mix-blend-mode: multiply;
+    filter: brightness(1.1);
+}

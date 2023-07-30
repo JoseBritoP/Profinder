@@ -1,0 +1,126 @@
+[
+  {
+      "id": 3,
+      "name": "Joan Lomeli",
+      "email": "Nicols_Vargas60@nearbpo.com",
+      "image": "https://randomuser.me/api/portraits/women/36.jpg",
+      "rating": "5",
+      "genre": "female",
+      "years_exp": "4",
+      "phone": "5575547745",
+      "ubication": "Toluca Marcela",
+      "description": "Creador de piezas de cerámica y alfarería, Creador de accesorios de bisutería y complementos",
+      "professions": [
+          {
+              "id": 5,
+              "category": "Manualidades",
+              "ocupations": [
+                  {
+                      "id": 42,
+                      "name": "Ceramista"
+                  },
+                  {
+                      "id": 46,
+                      "name": "Bisutería"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "id": 35,
+      "name": "Jordan Caldera",
+      "email": "MaraFernanda_Domnquez17@nearbpo.com",
+      "image": "https://randomuser.me/api/portraits/women/12.jpg",
+      "rating": "5",
+      "genre": "female",
+      "years_exp": "2",
+      "phone": "572017863",
+      "ubication": "Buenavista Jorgestad",
+      "description": "Creador de joyas y accesorios hechos a mano",
+      "professions": [
+          {
+              "id": 5,
+              "category": "Manualidades",
+              "ocupations": [
+                  {
+                      "id": 44,
+                      "name": "Joyería artesanal"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "id": 50,
+      "name": "Floyd Trejo",
+      "email": "Manuel_Barrera@corpfolder.com",
+      "image": "https://randomuser.me/api/portraits/men/21.jpg",
+      "rating": "1",
+      "genre": "male",
+      "years_exp": "2",
+      "phone": "556948519",
+      "ubication": "Zamora-Jacona Marcos",
+      "description": "Artista que crea ilustraciones y dibujos",
+      "professions": [
+          {
+              "id": 2,
+              "category": "Arte y Diseño",
+              "ocupations": [
+                  {
+                      "id": 12,
+                      "name": "Ilustrador"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "id": 51,
+      "name": "Jodee",
+      "email": "ccc@sss.com",
+      "image": "http://127.0.0.1:5173/login.jpg",
+      "rating": null,
+      "genre": "female",
+      "years_exp": "2",
+      "phone": "213254",
+      "ubication": "sdsa154s|",
+      "description": "??fgf40das ",
+      "professions": [
+          {
+              "id": 1,
+              "category": "Tecnología",
+              "ocupations": [
+                  {
+                      "id": 5,
+                      "name": "Analista de datos"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "id": 52,
+      "name": "Jose Rodriguez",
+      "email": "hh@gmail.com",
+      "image": "https://ggg.jpg",
+      "rating": null,
+      "genre": "female",
+      "years_exp": "2",
+      "phone": "44455",
+      "ubication": "bogota",
+      "description": "Soy una persona con experien",
+      "professions": [
+          {
+              "id": 3,
+              "category": "Consultoría",
+              "ocupations": [
+                  {
+                      "id": 25,
+                      "name": "Consultor de estrategia"
+                  }
+              ]
+          }
+      ]
+  }
+]

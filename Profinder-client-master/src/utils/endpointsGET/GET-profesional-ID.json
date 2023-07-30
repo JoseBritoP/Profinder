@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Allen Leiva",
+        "email": "Emmanuel43@corpfolder.com",
+        "image": "https://randomuser.me/api/portraits/men/47.jpg",
+        "genre": "male",
+        "rating": "1",
+        "years_exp": "3",
+        "description": "Creador de arte digital y gráficos",
+        "phone": "589018310",
+        "ubication": "Leonorhaven",
+        "professions": [
+            {
+                "id": 2,
+                "category": "Arte y Diseño",
+                "ocupations": [
+                    {
+                        "id": 16,
+                        "name": "Artista digital"
+                    }
+                ]
+            }
+        ],
+		"jobimages": [
+			{
+				"image": [
+					"https://example.com/image1.jpg",
+					"https://example.com/image2.jpg"
+				],
+				"description": "Description "
+			}
+		]
+	}
+]

@@ -1,0 +1,85 @@
+.categoryContainer {
+  background-color: #1A202C;
+  padding-top: 3rem;
+  text-align: center;
+  /* height: 100vh; */
+}
+
+.categoryh2 {
+  font-size: 36px;
+  font-weight: bold;
+  font-family: "Arial", sans-serif;
+  margin-bottom: 20px; /* Ajusta el valor según sea necesario */
+}
+
+.categoryDescription {
+  font-size: 16px; /* Ajusta el tamaño de fuente según sea necesario */
+  margin-bottom: 20px; /* Ajusta el valor según sea necesario */
+  color: #ccc;
+}
+
+.categoryLabelsContainer {
+  height: 400px; /* Ajusta el valor según sea necesario */
+  overflow-y: scroll;
+  margin-top: 10px;
+}
+
+.categoryLabels {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap; /* Permite que las tarjetas se envuelvan a medida que se agregan más ocupaciones */
+  gap: 30px;
+}
+
+.categoryLabels p {
+  font-size: 12px;
+  text-align: center;
+  margin: 0;
+}
+
+.categoryItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.categoryItem p {
+  margin-top: 10px;
+}
+
+.logo {
+  width: 100px; /* Ajusta el valor según sea necesario */
+  height: 100px; /* Ajusta el valor según sea necesario */
+}
+
+.categoryBox {
+  margin-top: 50px; /* Ajusta el valor según sea necesario */
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.occupationCard {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px; /* Ajusta el valor según sea necesario */
+}
+
+.categorySelect {
+  font-size: 1.3rem;
+  width: 200px;
+  height: 35px;
+  font-weight:500;
+  text-align: center;
+  background-color: #2C7A7B;
+  color: #ccc;
+  border-radius: 0.3rem;
+  cursor: pointer;
+  transition: 0.4s;
+}
+
+.categoryLabel {
+  color: #ccc;
+}

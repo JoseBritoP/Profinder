@@ -1,0 +1,104 @@
+[
+  {
+      "id": 21,
+      "name": "Leah Kaplan",
+      "email": "Emilio.Anaya@nearbpo.com",
+      "phone": "508772254",
+      "image": "https://randomuser.me/api/portraits/men/37.jpg",
+      "genre": "male",
+      "rating": "2",
+      "years_exp": "2",
+      "description": "Experto en desarrollo de sistemas y algoritmos de inteligencia artificial, Desarrollador de software especializado en ingeniería",
+      "ubication": "Waco",
+      "active": true,
+      "pro": true,
+      "softDelete": null,
+      "UserId": null,
+      "Categories": [
+          {
+              "id": 1,
+              "name": "Tecnología"
+          }
+      ],
+      "Ocupations": [
+          {
+              "id": 1,
+              "name": "Programador",
+              "CategoryId": 1
+          },
+          {
+              "id": 10,
+              "name": "Especialista en inteligencia artificial",
+              "CategoryId": 1
+          }
+      ]
+  },
+  {
+      "id": 37,
+      "name": "Jacqueline Vázquez",
+      "email": "Rubn_Delarosa53@gmail.com",
+      "phone": "575349292",
+      "image": "https://randomuser.me/api/portraits/men/25.jpg",
+      "genre": "male",
+      "rating": "2",
+      "years_exp": "5",
+      "description": "Especialista en protección y seguridad de sistemas informáticos, Desarrollador de software especializado en ingeniería",
+      "ubication": "Tlalnepantla Elsaberg",
+      "active": true,
+      "pro": true,
+      "softDelete": null,
+      "UserId": null,
+      "Categories": [
+          {
+              "id": 1,
+              "name": "Tecnología"
+          }
+      ],
+      "Ocupations": [
+          {
+              "id": 1,
+              "name": "Programador",
+              "CategoryId": 1
+          },
+          {
+              "id": 9,
+              "name": "Experto en ciberseguridad",
+              "CategoryId": 1
+          }
+      ]
+  },
+  {
+      "id": 48,
+      "name": "Rick Khalid",
+      "email": "Yolanda16@gmail.com",
+      "phone": "566694576",
+      "image": "https://randomuser.me/api/portraits/women/38.jpg",
+      "genre": "female",
+      "rating": "4",
+      "years_exp": "1",
+      "description": "Desarrollador de software especializado en ingeniería, Experto en diseño y desarrollo de sitios web",
+      "ubication": "Delarosastad",
+      "active": true,
+      "pro": true,
+      "softDelete": null,
+      "UserId": null,
+      "Categories": [
+          {
+              "id": 1,
+              "name": "Tecnología"
+          }
+      ],
+      "Ocupations": [
+          {
+              "id": 1,
+              "name": "Programador",
+              "CategoryId": 1
+          },
+          {
+              "id": 2,
+              "name": "Diseñador web",
+              "CategoryId": 1
+          }
+      ]
+  }
+]

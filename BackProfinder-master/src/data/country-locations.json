@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Argentina"
+  },
+  {
+    "id": 2,
+    "name": "Bolivia"
+  },
+  {
+    "id": 3,
+    "name": "Brasil"
+  },
+  {
+    "id": 4,
+    "name": "Chile"
+  },
+  {
+    "id": 5,
+    "name": "Colombia"
+  },
+  {
+    "id": 6,
+    "name": "Costa Rica"
+  },
+  {
+    "id": 7,
+    "name": "Cuba"
+  },
+  {
+    "id": 8,
+    "name": "Ecuador"
+  },
+  {
+    "id": 9,
+    "name": "El Salvador"
+  },
+  {
+    "id": 10,
+    "name": "Guatemala"
+  },
+  {
+    "id": 11,
+    "name": "Haití"
+  },
+  {
+    "id": 12,
+    "name": "Honduras"
+  },
+  {
+    "id": 13,
+    "name": "México"
+  },
+  {
+    "id": 14,
+    "name": "Nicaragua"
+  },
+  {
+    "id": 15,
+    "name": "Panamá"
+  },
+  {
+    "id": 16,
+    "name": "Paraguay"
+  },
+  {
+    "id": 17,
+    "name": "Perú"
+  },
+  {
+    "id": 18,
+    "name": "República Dominicana"
+  },
+  {
+    "id": 19,
+    "name": "Uruguay"
+  },
+  {
+    "id": 20,
+    "name": "Venezuela"
+  }
+]

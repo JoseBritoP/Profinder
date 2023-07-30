@@ -1,0 +1,260 @@
+[
+    {
+        "content": "Excelente profesional. Muy amable y conocedor del tema. Lo recomiendo ampliamente.",
+        "rating": 5,
+        "profesionalId": 40,
+        "clientId": 456
+    },
+    {
+        "content": "Buen servicio, aunque podría mejorar en algunos aspectos. Le doy un 3 de calificación.",
+        "rating": 3,
+        "profesionalId": 35,
+        "clientId": 12
+    },
+    {
+        "content": "No quedé satisfecho con el trabajo realizado. No lo recomendaría. Le doy un 1 de calificación.",
+        "rating": 1,
+        "profesionalId": 25,
+        "clientId": 678
+    },
+    {
+        "content": "El profesional fue muy atento y resolvió todas mis dudas. Le doy un 4 de calificación.",
+        "rating": 4,
+        "profesionalId": 27,
+        "clientId": 654
+    },
+    {
+        "content": "No quedé conforme con el servicio. Considero que hay margen de mejora. Le doy un 2 de calificación.",
+        "rating": 2,
+        "profesionalId": 18,
+        "clientId": 987
+    },
+    {
+        "content": "Excelente experiencia con este profesional. Lo recomendaría sin dudarlo. Le doy un 5 de calificación.",
+        "rating": 5,
+        "profesionalId": 14,
+        "clientId": 321
+    },
+    {
+        "content": "El servicio fue rápido y eficiente. Quedé muy satisfecho. Le doy un 5 de calificación.",
+        "rating": 5,
+        "profesionalId": 9,
+        "clientId": 567
+    },
+    {
+        "content": "Buena atención al cliente y precios razonables. Le doy un 4 de calificación.",
+        "rating": 4,
+        "profesionalId": 43,
+        "clientId": 543
+    },
+    {
+        "content": "No cumplió con mis expectativas. No lo recomendaría. Le doy un 1 de calificación.",
+        "rating": 1,
+        "profesionalId": 36,
+        "clientId": 432
+    },
+    {
+        "content": "Me gustó el trato recibido, pero el resultado no fue el esperado. Le doy un 3 de calificación.",
+        "rating": 3,
+        "profesionalId": 4,
+        "clientId": 789
+    },
+    {
+        "content": "Muy buen servicio al cliente y precios competitivos. Lo recomendaría. Le doy un 4 de calificación.",
+        "rating": 4,
+        "profesionalId": 47,
+        "clientId": 654
+    },
+    {
+        "content": "No quedé satisfecho con la calidad del trabajo realizado. Le doy un 2 de calificación.",
+        "rating": 2,
+        "profesionalId": 6,
+        "clientId": 321
+    },
+    {
+        "content": "El profesional fue puntual y demostró amplio conocimiento en el área. Le doy un 5 de calificación.",
+        "rating": 5,
+        "profesionalId": 13,
+        "clientId": 654
+    },
+    {
+        "content": "El profesional fue muy atento y resolvió todas mis dudas. Le doy un 4 de calificación.",
+        "rating": 4,
+        "profesionalId": 24,
+        "clientId": 654
+    },
+    {
+        "content": "No quedé conforme con el servicio. Considero que hay margen de mejora. Le doy un 2 de calificación.",
+        "rating": 2,
+        "profesionalId": 45,
+        "clientId": 987
+    },
+    {
+        "content": "Excelente experiencia con este profesional. Lo recomendaría sin dudarlo. Le doy un 5 de calificación.",
+        "rating": 5,
+        "profesionalId": 8,
+        "clientId": 321
+    },
+    {
+        "content": "El servicio fue rápido y eficiente. Quedé muy satisfecho. Le doy un 5 de calificación.",
+        "rating": 5,
+        "profesionalId": 37,
+        "clientId": 567
+    },
+    {
+        "content": "Buena atención al cliente y precios razonables. Le doy un 4 de calificación.",
+        "rating": 4,
+        "profesionalId": 23,
+        "clientId": 543
+    },
+    {
+        "content": "No cumplió con mis expectativas. No lo recomendaría. Le doy un 1 de calificación.",
+        "rating": 1,
+        "profesionalId": 7,
+        "clientId": 432
+    },
+    {
+        "content": "Me gustó el trato recibido, pero el resultado no fue el esperado. Le doy un 3 de calificación.",
+        "rating": 3,
+        "profesionalId": 34,
+        "clientId": 789
+    },
+    {
+        "content": "Muy buen servicio al cliente y precios competitivos. Lo recomendaría. Le doy un 4 de calificación.",
+        "rating": 4,
+        "profesionalId": 26,
+        "clientId": 654
+    },
+    {
+        "content": "No quedé satisfecho con la calidad del trabajo realizado. Le doy un 2 de calificación.",
+        "rating": 2,
+        "profesionalId": 48,
+        "clientId": 321
+    },
+    {
+        "content": "El profesional fue puntual y demostró amplio conocimiento en el área. Le doy un 5 de calificación.",
+        "rating": 5,
+        "profesionalId": 3,
+        "clientId": 654
+    },
+    {
+        "content": "El profesional brindó un excelente servicio. Fue muy amable y eficiente. Le doy un 5 de calificación.",
+        "rating": 5,
+        "profesionalId": 39,
+        "clientId": 876
+    },
+    {
+        "content": "No quedé satisfecho con el trabajo realizado. Hubo falta de atención a los detalles. Le doy un 2 de calificación.",
+        "rating": 2,
+        "profesionalId": 5,
+        "clientId": 987
+    },
+    {
+        "content": "Recomiendo ampliamente al profesional. Resolvió todas mis inquietudes de manera clara. Le doy un 5 de calificación.",
+        "rating": 5,
+        "profesionalId": 21,
+        "clientId": 321
+    },
+    {
+        "content": "El servicio fue rápido y eficaz. Quedé muy satisfecho con los resultados. Le doy un 5 de calificación.",
+        "rating": 5,
+        "profesionalId": 10,
+        "clientId": 567
+    },
+    {
+        "content": "Buena atención al cliente y precios justos. Lo recomendaría sin dudarlo. Le doy un 4 de calificación.",
+        "rating": 4,
+        "profesionalId": 20,
+        "clientId": 543
+    },
+    {
+        "content": "No cumplió con mis expectativas. No lo recomendaría a otros. Le doy un 1 de calificación.",
+        "rating": 1,
+        "profesionalId": 38,
+        "clientId": 432
+    },
+    {
+        "content": "Quedé satisfecho con el servicio proporcionado. Buena relación calidad-precio. Le doy un 4 de calificación.",
+        "rating": 4,
+        "profesionalId": 22,
+        "clientId": 789
+    },
+    {
+        "content": "Excelente profesional, demostró amplios conocimientos en el área. Le doy un 5 de calificación.",
+        "rating": 5,
+        "profesionalId": 2,
+        "clientId": 654
+    },
+    {
+        "content": "No quedé conforme con el resultado final. Hubo errores que no fueron corregidos. Le doy un 2 de calificación.",
+        "rating": 2,
+        "profesionalId": 49,
+        "clientId": 321
+    },
+    {
+        "content": "El profesional fue puntual y dedicado. Me sentí muy satisfecho con su trabajo. Le doy un 5 de calificación.",
+        "rating": 5,
+        "profesionalId": 1,
+        "clientId": 654
+    },
+    {
+        "content": "Muy buena atención al cliente y rápida respuesta a mis consultas. Le doy un 4 de calificación.",
+        "rating": 4,
+        "profesionalId": 41,
+        "clientId": 456
+    },
+    {
+        "content": "Hubo algunas demoras en el servicio, pero en general fue satisfactorio. Le doy un 3 de calificación.",
+        "rating": 3,
+        "profesionalId": 50,
+        "clientId": 12
+    },
+    {
+        "content": "El profesional demostró gran experiencia y habilidad en su trabajo. Le doy un 5 de calificación.",
+        "rating": 5,
+        "profesionalId": 33,
+        "clientId": 678
+    },
+    {
+        "content": "No quedé conforme con la atención recibida. Hubo falta de claridad en las explicaciones. Le doy un 2 de calificación.",
+        "rating": 2,
+        "profesionalId": 12,
+        "clientId": 543
+    },
+    {
+        "content": "Recomendaría al profesional a otras personas. Su servicio fue excepcional. Le doy un 5 de calificación.",
+        "rating": 5,
+        "profesionalId": 19,
+        "clientId": 321
+    },
+    {
+        "content": "El servicio fue rápido y eficiente. Quedé muy satisfecho con los resultados obtenidos. Le doy un 5 de calificación.",
+        "rating": 5,
+        "profesionalId": 11,
+        "clientId": 567
+    },
+    {
+        "content": "Buena relación calidad-precio y excelente atención al cliente. Lo recomendaría. Le doy un 4 de calificación.",
+        "rating": 4,
+        "profesionalId": 17,
+        "clientId": 543
+    },
+    {
+        "content": "No estoy satisfecho con el trabajo realizado. No lo recomendaría. Le doy un 1 de calificación.",
+        "rating": 1,
+        "profesionalId": 47,
+        "clientId": 432
+    },
+    {
+        "content": "Me sentí satisfecho con el servicio recibido. Fue atento y resolvió todas mis dudas. Le doy un 4 de calificación.",
+        "rating": 4,
+        "profesionalId": 16,
+        "clientId": 789
+    },
+    {
+        "content": "El profesional mostró amplios conocimientos en su área. Quedé muy impresionado. Le doy un 5 de calificación.",
+        "rating": 5,
+        "profesionalId": 14,
+        "clientId": 654
+    }
+]
