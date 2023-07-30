@@ -151,7 +151,7 @@ Profinder es una aplicación de citas que permite a los usuarios prestadores de 
 ## Instrucciones de Uso
 
 1. Clona el repositorio: `git clone https://github.com/tu_usuario/tu_repositorio.git`
-2. Instala las dependencias del frontend: `cd profinder-client && npm install`
+2. Instala las dependencias del frontend: `cd client && npm install`
 3. Instala las dependencias del backend: `cd api && npm install`
 4. Configura las variables de entorno (crea un archivo `.env`) con las claves y tokens necesarios.
 5. Ejecuta el frontend y el backend en entornos de desarrollo o producción según sea necesario.
